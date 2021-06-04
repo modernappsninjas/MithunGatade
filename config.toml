@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://modernappsninjas.github.io/MithunGatade/"
-title = "ModernApps Ninja Member Page for mithun gatade"
+title = "ModernApps Ninja Member Page for Mithun Gatade"
 theme = "educenter-hugo"
 # themesDir = "../.."
 # post pagination
@@ -105,7 +105,7 @@ link = "https://github.com/MithunGatade/"
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "https://www.linkedin.com/company/mithun.gatade/"
+link = "https://www.linkedin.com/in/mithun-gatade/"
 
 
 ################################### English language #####################################
